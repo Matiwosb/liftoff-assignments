@@ -11,8 +11,9 @@ Include overview here
 ### Features
 Include Features here
 ### Technologies
-Include Technologies here
+Include Technologi
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/Gkv5mbCv
